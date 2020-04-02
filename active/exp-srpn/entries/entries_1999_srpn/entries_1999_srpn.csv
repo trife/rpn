@@ -1,0 +1,46 @@
+entry num,variety or pedigree,selection num,source
+1,Kharkof,CI1442,Check
+2,Scout 66,CI13996,Check
+3,TAM-107,PI495594,Check
+4,HBY756A/Siouxland//2180,OK94P549-2C,Oklahoma
+5,TXGH13622/2180,OK95616-14C,Oklahoma
+6,OK87W663/Mesa//2180,OK95571,Oklahoma
+7,Abilene/2180//Chisholm,OK96717,Oklahoma
+8,OK86216/Cimarron sib//2180,OK95548-26C,Oklahoma
+9,TAM-301//TAM-108/Bobwhite,TX93D2066,"TX, Dallas"
+10,TX90D9377/Probrand 812,TX95D8283,"TX, Dallas"
+11,TAM-105/10334,TX90A9528,"TX, Vernon"
+12,U1254-1-8-1-1/TAM-202,TX94V5922,"TX, Vernon"
+13,TX88V5435/Yantar,TX95V4339,"TX, Vernon"
+14,TAM200/Fundulea,TX95V5905,"TX, Vernon"
+15,U1254-1-5-1-1/TX89V4213,TX97V4311,"TX, Vernon"
+16,KS87G325-2-1/RioBlanco,CO940611,Colorado
+17,Hill/PI294994-GBR/Lamar,CO950043,Colorado
+18,KS87H325/RioBlanco,Trego,"KS, Hays"
+19,PI220350/KS87H57//TAM200/ KS87H66/3/KS87H325,KS95H167-3,"KS, Hays"
+20,KS91HW29//RioBlanco/KS91H184,KS96HW10-3,"KS, Hays"
+21,Arlin/KS89H130,KS96HW115,"KS, Hays"
+22,Arlin/KS89H20,KS96HW94,"KS, Hays"
+23,G223W/Abilene,G96047,Goertzen Seed
+24,Abilene/G1113//Karl92/3/G53,G96134,Goertzen Seed
+25,Abilene/G1113//Karl92/3/G53,G96135,Goertzen Seed
+26,G83R2/TX81V6180//G223W,G96044,Goertzen Seed
+27,Abilene/Arapahoe,NE95510,"Nebraska, UNL"
+28,Abilene/Nekota sib,NE96573,"Nebraska, UNL"
+29,Buck Pucura/H1781f//Klein Orion,TK1269,Trigen
+30,Buck Poncho S/ Buck Charrua S,TB1071,Trigen
+31,T702*2/Karl,T108,Trio
+32,T67//Tecumseh/Plainsman V,T111,Trio
+33,T67//Tecumseh/Plainsman V,T112,Trio
+34,T68/KS90WGRC10,T114,Trio
+35,WI90-425//N84-0758//WI81-297-3,W95-385,Agripro
+36,WI90-425//N84-0758//WI81-297-3,W95-392,Agripro
+37,KS85-663-8-9//WI81-133/Thunderbird,W95-091,Agripro
+38,HBK0927,W94-480W,Agripro
+39,WI89-282/Arlin,W95-610W,Agripro
+40,Quantum Hybrid Wheat,XH1888,HybriTech
+41,Quantum Hybrid Wheat,XH9806,HybriTech
+42,Quantum Hybrid Wheat,XH9815,HybriTech
+43,KS8010-73/KS8010-1-4-2//101349/KS11252/3/Karl,KS89180B-2-1-2,"KS, Manhattan"
+44,HBA142A/HBZ623A//ALE,HBK0630-4-5,"KS, Manhattan"
+45,KSSB0192-3/NE89529,NW97S151,"Nebraska, ARS"
