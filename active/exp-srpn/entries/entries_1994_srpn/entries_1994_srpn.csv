@@ -26,7 +26,7 @@ entry num,variety or pedigree,selection num,source
 25,WX12907/4/TAM-108/5/(Sturdy/2/Coker 68-15/Mow7510/3/TAM-101),KS92PO363-134,Kansas
 26,Ctk//IN4946A4-18-2-/MOW74u70/5/IN4946A4-18-2-/MOW7470/PL145/3/NB/Scout,KS92PO425-155,Kansas
 27,KS82W418/Stephens (Jagger),KS84063-9-39-3,Kansas
-28,TAM-1073/TA2460,KS93U206,"KS, USDA"
+28,TAM-107*3/TA2460,KS93U206,"KS, USDA"
 29,NE69565//NE65671/NE69655/3/Homestead/4/Ctk/3/At66/Cmn//TX2607-6,N87V106,"NE, USDA"
 30,KS83H2510/Brule composite,NE90479,Nebraska
 31,Brule seln/4/Bez 1/3/Ctk//Arthur/Ctk78,NE90524,Nebraska
@@ -43,4 +43,4 @@ entry num,variety or pedigree,selection num,source
 42,T11//Brule/TAM-108,T4731,Trio
 43,T11//Brule/TAM-108,T4732,Trio
 44,TAM-107/T213 sib,T81,Trio
-45,T213 sib 2/HRW,T83,Trio
+45,T213 sib *2/HRW,T83,Trio
