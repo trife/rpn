@@ -15,17 +15,17 @@ entry num,variety or pedigree,selection num,source
 14,TX85V1830/TX84V1307,TX93V5922,Texas
 15,TX87V1913/TAM-200,TX93V4927,Texas
 16,OK82377/TX81V6603-2,TX92V2519,Texas
-17,(TX71A562-6*4/Amigo*4/Largo ('TAM-110'),TXGH12588-105,Texas
+17,(TX71A562-6*4/Amigo)*4/Largo ('TAM-110'),TXGH12588-105,Texas
 18,Mesa/Carson,CO910424,Colorado
 19,CO840104/Lamar,CO910748,Colorado
 20,HF5761/TAM-105//Bounty Hybrid 203,KS91H153-2,Kansas
-21,Karl.HBY385D//2163,KS941064-3,Kansas
-22,Karl.HBY385D//2163,KS941064-6,Kansas
+21,Karl/HBY385D//2163,KS941064-3,Kansas
+22,Karl/HBY385D//2163,KS941064-6,Kansas
 23,2180/Karl//2163,KS940935-7-2-1,Kansas
 24,2180/Karl//2163,KS940935-125-5-2,Kansas
 25,KS82W422/SWM754308//KS831182/KS82W422,KS85W663-11-6-MB,Kansas
 26,KS82W418/Stephens,KS84W063-9-39-3-MB,Kansas
-27,Bennett/Brule Composite,NE90476,Kansas
+27,Bennett/Brule Composite,NE90476,Nebraska
 28,OK83201/Redland,NE92458,Nebraska
 29,NE82413/Colt,NE92646,Nebraska
 30,NE85707/Thunderbird,NE93405,Nebraska
@@ -37,4 +37,4 @@ entry num,variety or pedigree,selection num,source
 36,TAM-107/T213 sib,T812,Trio
 37,TAM-107/Caldwell,T861,Trio
 38,T68/KS90WGRC10,T89,Trio
-39,Sturdy/Plainsman V seln ('G1878'),G1878,Goertzem
+39,Sturdy/Plainsman V seln ('G1878'),G1878,Goertzen

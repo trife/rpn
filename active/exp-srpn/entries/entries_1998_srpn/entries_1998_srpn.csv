@@ -1,5 +1,5 @@
 entry num,variety or pedigree,selection num,source
-1,Kharlof,CI1442,Check
+1,Kharkof,CI1442,Check
 2,Scout 66,CI13996,Check
 3,TAM-107,PI495594,Check
 4,HBY756A/Sxl//2180,OK94P549,Oklahoma
@@ -24,7 +24,7 @@ entry num,variety or pedigree,selection num,source
 23,2180/Karl//2163,KS97W0935-29-15,"KS, Manhattan"
 24,KS82W428/Vee'S'//VIC/BOW/3/PVI124-79,KS91W009-6-11,"KS, Manhattan"
 25,KS831936-3//Colt/Cody,N95L158,"NE, ARS"
-26,Abilene/Norkan//Rawhide,NE94632,Nebraska
+26,NE85707/Thunderbird,NE93496,Nebraska
 27,Abilene/Norkan//Rawhide,NE94632,Nebraska
 28,W84-179/W81-171/3/Sturdy/Hawk//Vona/W76-1141,W95-210,Agripro
 29,Abilene/KS90WGRC10,W95-188,Agripro
@@ -43,4 +43,4 @@ entry num,variety or pedigree,selection num,source
 42,Cebeco/Lilifen//Hail/3/Karl92/4/CO2643//Can/Era,G15048,Goertzen
 43,Sut/*5AG/Max//CIMMYT line/3/Abilene,G15011,Goertzen
 44,Random mating population,G15458,Goertzen
-45,Rusian population selection,G15111,Goertzen
+45,Russian population selection,G15111,Goertzen
