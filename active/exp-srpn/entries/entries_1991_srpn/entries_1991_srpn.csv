@@ -1,47 +1,46 @@
-entry num,variety or pedigree,selection num,source,
-1,Kharkof,CI1442 ,Check,
-2,Scout 66,CI13996 ,Check,
-3,TAM-107,PI495594 ,Check,
-4,Csm*3/3/Ntn/Largo//Csm,OK87W663 ,Oklahoma,
-5,Century sib/Csm,OK87542 ,Oklahoma,
-6,TAM-101/OK79286//Csm,OK87630 ,Oklahoma,
-7,F29-76/T105//Csm,OK88767 ,Oklahoma,
-8,Csm*3/3/Newton/Largo//2*Csm,OK88W833 ,Oklahoma,
-9,TX78V2154/Siouxland,TX88V4636 ,Texas,
-10,Vona/TX71D4889-V3,TX84V1418HF ,Texas,
-11,Karl Resel. ,TX88V5440 ,Texas,
-12,TX78V2154/Siouxland,TX88V4635,Texas,
-13,TAM-105/3/NE70654/BBY/Bow's' ,TX87V1613 ,Texas,
-14,NE78696/Payne ,TX88V4524 ,Texas,
-15,T AM-200//TX38949-2/T AM-107 ,TX89V4138 ,Texas,
-16,Karl Resel. ,TX88V5433 ,Texas,
-17,Thunderbird//Payne/Collin ,TX86D1310 ,Texas,
-18,T AM-106/Collin ,TX86D1332 ,Texas,
-19,TX82D4651//Amigo/TX71A106-5 ,TX88D3424,Texas,
-20,NS14/NS603//Newton/3/PB835 ,C0850034 ,Colorado,
-21,NS14/NS25//2*V ona ,C0850061 ,Colorado,
-22,TX73165/Sandy ,C0860086 ,Colorado,
-23,NE76667/Hawk ,C0860094 ,Colorado,
-24,Bulk Selection ,KSSB-369-7 ,Kansas,
-25,Bulk Selection ,KSSB-192-3,Kansas,
-26,2162 sib/W6430C//W9519A ,HBC197F ,Kansas,
-27,H15A13333/3/5*led/Egl//Sage/4/T AM-105 ,KS87H6 ,Kansas,
-28,Norkan/T AM-108 ,KS88H12-1 ,Kansas,
-29,Norkan/T AM-108 ,KS88H12-2 ,Kansas,
-30,NE68513/NE684457//Ctk/3/Brule ,NE87615 ,Nebraska,
-31,Nwt/2/Wrr*5/Agent/4ITAM-105/3/Larned//Eagle/Sage ,NE87409 ,Nebraska,
-32,NE68513/NE 8457//Ctk78/3/Brule ,NE87451 ,Nebraska,
-33,Arkan/Colt//Chisholm sib ,NE88595 ,Nebraska,
-34,Bennett ITAM-107 ,NE88427 ,Nebraska,
-35,Quantum Hybrid Wheat ,XH900 ,HybriTech,
-36,Quantum Hybrid Wheat ,XH1231 ,HybriTech,
-37,Quantum Hybrid Wheat ,XH1322 ,HybriTech,
-38,Quantum Hybrid Wheat ,XH1514 ,HybriTech,
-39,Bulk Selection ,WI88-083,Agripro,
-40,NS2630/Thunderbird ,WI88‡024 ,Agripro,
-41,T A M - 1 0 8 / T X 7 8 V 2 1 5 4 ,T 1 9 - 3 ,Trio,
-42,2165/V ona ,T67 ,Trio,
-43,T AM-108/Lancota,T21-3 ,Trio,
-44,HRW Hybrid,TH901 ,Trio,
-45,HRW Hybrid,TH902 ,Trio,
-,,,,
+entry num,variety or pedigree,selection num,source
+1,Kharkof,CI1442,Check
+2,Scout 66,CI13996,Check
+3,TAM-107,PI495594,Check
+4,Csm*3/3/Ntn/Largo//Csm,OK87W663,Oklahoma
+5,Century sib/Csm,OK87542,Oklahoma
+6,TAM-101/OK79286//Csm,OK87630,Oklahoma
+7,F29-76/T105//Csm,OK88767,Oklahoma
+8,Csm*3/3/Newton/Largo//2*Csm,OK88W833,Oklahoma
+9,TX78V2154/Siouxland,TX88V4636,Texas
+10,Vona/TX71D4889-V3,TX84V1418HF,Texas
+11,Karl Resel.,TX88V5440,Texas
+12,TX78V2154/Siouxland,TX88V4635,Texas
+13,TAM-105/3/NE70654/BBY/Bow's',TX87V1613,Texas
+14,NE78696/Payne,TX88V4524,Texas
+15,T AM-200//TX38949-2/T AM-107,TX89V4138,Texas
+16,Karl Resel.,TX88V5433,Texas
+17,Thunderbird//Payne/Collin,TX86D1310,Texas
+18,T AM-106/Collin,TX86D1332,Texas
+19,TX82D4651//Amigo/TX71A106-5,TX88D3424,Texas
+20,NS14/NS603//Newton/3/PB835,C0850034,Colorado
+21,NS14/NS25//2*V ona,C0850061,Colorado
+22,TX73165/Sandy,C0860086,Colorado
+23,NE76667/Hawk,C0860094,Colorado
+24,Bulk Selection,KSSB-369-7,Kansas
+25,Bulk Selection,KSSB-192-3,Kansas
+26,2162 sib/W6430C//W9519A,HBC197F,Kansas
+27,H15A13333/3/5*led/Egl//Sage/4/T AM-105,KS87H6,Kansas
+28,Norkan/T AM-108,KS88H12-1,Kansas
+29,Norkan/T AM-108,KS88H12-2,Kansas
+30,NE68513/NE684457//Ctk/3/Brule,NE87615,Nebraska
+31,Nwt/2/Wrr*5/Agent/4ITAM-105/3/Larned//Eagle/Sage,NE87409,Nebraska
+32,NE68513/NE 8457//Ctk78/3/Brule,NE87451,Nebraska
+33,Arkan/Colt//Chisholm sib,NE88595,Nebraska
+34,Bennett ITAM-107,NE88427,Nebraska
+35,Quantum Hybrid Wheat,XH900,HybriTech
+36,Quantum Hybrid Wheat,XH1231,HybriTech
+37,Quantum Hybrid Wheat,XH1322,HybriTech
+38,Quantum Hybrid Wheat,XH1514,HybriTech
+39,Bulk Selection,WI88-083,Agripro
+40,NS2630/Thunderbird,WI88‡024,Agripro
+41,T A M - 1 0 8 / T X 7 8 V 2 1 5 4,T 1 9 - 3,Trio
+42,2165/V ona,T67,Trio
+43,T AM-108/Lancota,T21-3,Trio
+44,HRW Hybrid,TH901,Trio
+45,HRW Hybrid,TH902,Trio
