@@ -1,46 +1,46 @@
-state,city,reps,line,entry,yield (kg/ha),volume weight (kg/hl)
-Colorado,Akron,3 replications,CI1442,1,2569,72.1
-Colorado,Akron,3 replications,CI13996,2,4681,74.6
-Colorado,Akron,3 replications,PI495594,3,4941,72.4
-Colorado,Akron,3 replications,OK87W663,4,4480,74.3
-Colorado,Akron,3 replications,OK87542,5,4704,72.7
-Colorado,Akron,3 replications,OK87630,6,4351,73
-Colorado,Akron,3 replications,OK88767,7,4888,73
-Colorado,Akron,3 replications,OK88W833,8,4048,72.7
-Colorado,Akron,3 replications,TX88V4636,9,5272,69.9
-Colorado,Akron,3 replications,TX84V1418HF,10,4372,74.6
-Colorado,Akron,3 replications,TX88V5440,11,4707,72.1
-Colorado,Akron,3 replications,TX88V4635,12,5083,72.4
-Colorado,Akron,3 replications,TX87V1613,13,4367,74.6
-Colorado,Akron,3 replications,TX88V4524,14,4736,73
-Colorado,Akron,3 replications,TX89V4138,15,4836,76.4
-Colorado,Akron,3 replications,TX88V5433,16,4610,73.7
-Colorado,Akron,3 replications,TX86D1310,17,4038,74.6
-Colorado,Akron,3 replications,TX86D1332,18,4368,75.2
-Colorado,Akron,3 replications,TX88D3424,19,4001,68.4
-Colorado,Akron,3 replications,C0850034,20,3522,69
-Colorado,Akron,3 replications,C0850061,21,4898,73.3
-Colorado,Akron,3 replications,C0860086,22,4692,70.6
-Colorado,Akron,3 replications,C0860094,23,4829,69.9
-Colorado,Akron,3 replications,KSSB-369-7,24,5065,74.3
-Colorado,Akron,3 replications,KSSB-192-3,25,4940,74
-Colorado,Akron,3 replications,HBC197F,26,4871,69.9
-Colorado,Akron,3 replications,KS87H6,27,4647,72.7
-Colorado,Akron,3 replications,KS88H12-1,28,5030,72.1
-Colorado,Akron,3 replications,KS88H12-2,29,5389,73.3
-Colorado,Akron,3 replications,NE87615,30,5351,73.3
-Colorado,Akron,3 replications,NE87409,31,4976,74
-Colorado,Akron,3 replications,NE87451,32,5195,70.9
-Colorado,Akron,3 replications,NE88595,33,4787,71.8
-Colorado,Akron,3 replications,NE88427,34,4744,72.7
-Colorado,Akron,3 replications,XH900,35,4744,73.3
-Colorado,Akron,3 replications,XH1231,36,4786,71.2
-Colorado,Akron,3 replications,XH1322,37,4375,72.7
-Colorado,Akron,3 replications,XH1514,38,4779,72.7
-Colorado,Akron,3 replications,WI88-083,39,5219,72.7
-Colorado,Akron,3 replications,WI88-024,40,4658,74.9
-Colorado,Akron,3 replications,T19-3,41,5131,72.4
-Colorado,Akron,3 replications,T67,42,4484,75.2
-Colorado,Akron,3 replications,T21-3,43,5330,71.8
-Colorado,Akron,3 replications,TH901,44,4509,71.5
-Colorado,Akron,3 replications,TH902,45,4606,70.9
+"state","city","reps","line","entry","yield (kg/ha)","volume weight (kg/hl)"
+"COLORADO","AKRON","3","CI1442",1,2569,72.1
+"COLORADO","AKRON","3","CI13996",2,4681,74.6
+"COLORADO","AKRON","3","PI495594",3,4941,72.4
+"COLORADO","AKRON","3","OK87W663",4,4480,74.3
+"COLORADO","AKRON","3","OK87542",5,4704,72.7
+"COLORADO","AKRON","3","OK87630",6,4351,73
+"COLORADO","AKRON","3","OK88767",7,4888,73
+"COLORADO","AKRON","3","OK88W833",8,4048,72.7
+"COLORADO","AKRON","3","TX88V4636",9,5272,69.9
+"COLORADO","AKRON","3","TX84V1418HF",10,4372,74.6
+"COLORADO","AKRON","3","TX88V5440",11,4707,72.1
+"COLORADO","AKRON","3","TX88V4635",12,5083,72.4
+"COLORADO","AKRON","3","TX87V1613",13,4367,74.6
+"COLORADO","AKRON","3","TX88V4524",14,4736,73
+"COLORADO","AKRON","3","TX89V4138",15,4836,76.4
+"COLORADO","AKRON","3","TX88V5433",16,4610,73.7
+"COLORADO","AKRON","3","TX86D1310",17,4038,74.6
+"COLORADO","AKRON","3","TX86D1332",18,4368,75.2
+"COLORADO","AKRON","3","TX88D3424",19,4001,68.4
+"COLORADO","AKRON","3","C0850034",20,3522,69
+"COLORADO","AKRON","3","C0850061",21,4898,73.3
+"COLORADO","AKRON","3","C0860086",22,4692,70.6
+"COLORADO","AKRON","3","C0860094",23,4829,69.9
+"COLORADO","AKRON","3","KSSB-369-7",24,5065,74.3
+"COLORADO","AKRON","3","KSSB-192-3",25,4940,74
+"COLORADO","AKRON","3","HBC197F",26,4871,69.9
+"COLORADO","AKRON","3","KS87H6",27,4647,72.7
+"COLORADO","AKRON","3","KS88H12-1",28,5030,72.1
+"COLORADO","AKRON","3","KS88H12-2",29,5389,73.3
+"COLORADO","AKRON","3","NE87615",30,5351,73.3
+"COLORADO","AKRON","3","NE87409",31,4976,74
+"COLORADO","AKRON","3","NE87451",32,5195,70.9
+"COLORADO","AKRON","3","NE88595",33,4787,71.8
+"COLORADO","AKRON","3","NE88427",34,4744,72.7
+"COLORADO","AKRON","3","XH900",35,4744,73.3
+"COLORADO","AKRON","3","XH1231",36,4786,71.2
+"COLORADO","AKRON","3","XH1322",37,4375,72.7
+"COLORADO","AKRON","3","XH1514",38,4779,72.7
+"COLORADO","AKRON","3","WI88-083",39,5219,72.7
+"COLORADO","AKRON","3","WI88-024",40,4658,74.9
+"COLORADO","AKRON","3","T19-3",41,5131,72.4
+"COLORADO","AKRON","3","T67",42,4484,75.2
+"COLORADO","AKRON","3","T21-3",43,5330,71.8
+"COLORADO","AKRON","3","TH901",44,4509,71.5
+"COLORADO","AKRON","3","TH902",45,4606,70.9

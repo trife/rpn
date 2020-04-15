@@ -1,46 +1,46 @@
-state,city,reps,line,entry,yield (kg/ha),volume weight (kg/hl),plant height (cm),days to heading from 1/1
-Nebraska,Lincoln,3 replications,CI1442,1,910,72.2,95,147
-Nebraska,Lincoln,3 replications,CI13996,2,650,67.1,108,140
-Nebraska,Lincoln,3 replications,PI495594,3,2999,68.4,93,137
-Nebraska,Lincoln,3 replications,OK87W663,4,2262,71.6,90,138
-Nebraska,Lincoln,3 replications,OK87542,5,2053,71.6,94,138
-Nebraska,Lincoln,3 replications,OK87630,6,2744,71.2,99,138
-Nebraska,Lincoln,3 replications,OK88767,7,2742,72.9,97,137
-Nebraska,Lincoln,3 replications,OK88W833,8,2517,69.7,90,138
-Nebraska,Lincoln,3 replications,TX88V4636,9,1494,64.5,88,141
-Nebraska,Lincoln,3 replications,TX84V1418HF,10,2112,72.2,98,140
-Nebraska,Lincoln,3 replications,TX88V5440,11,2123,69.4,89,138
-Nebraska,Lincoln,3 replications,TX88V4635,12,1293,63.2,90,140
-Nebraska,Lincoln,3 replications,TX87V1613,13,2262,71,102,137
-Nebraska,Lincoln,3 replications,TX88V4524,14,2981,73.5,91,138
-Nebraska,Lincoln,3 replications,TX89V4138,15,1818,72.6,95,138
-Nebraska,Lincoln,3 replications,TX88V5433,16,2542,71.5,89,139
-Nebraska,Lincoln,3 replications,TX86D1310,17,1997,70.7,90,139
-Nebraska,Lincoln,3 replications,TX86D1332,18,1979,70.8,90,139
-Nebraska,Lincoln,3 replications,TX88D3424,19,1614,65,81,137
-Nebraska,Lincoln,3 replications,C0850034,20,1587,68.6,91,139
-Nebraska,Lincoln,3 replications,C0850061,21,2107,68.5,98,139
-Nebraska,Lincoln,3 replications,C0860086,22,1163,63.7,89,145
-Nebraska,Lincoln,3 replications,C0860094,23,1551,68.4,90,145
-Nebraska,Lincoln,3 replications,KSSB-369-7,24,2726,71.7,89,138
-Nebraska,Lincoln,3 replications,KSSB-192-3,25,3549,69.7,90,138
-Nebraska,Lincoln,3 replications,HBC197F,26,2053,65.8,90,141
-Nebraska,Lincoln,3 replications,KS87H6,27,1867,69.9,93,143
-Nebraska,Lincoln,3 replications,KS88H12-1,28,1926,68.8,94,142
-Nebraska,Lincoln,3 replications,KS88H12-2,29,2089,69.9,103,144
-Nebraska,Lincoln,3 replications,NE87615,30,1993,65.8,90,143
-Nebraska,Lincoln,3 replications,NE87409,31,1858,71,100,143
-Nebraska,Lincoln,3 replications,NE87451,32,2396,69.3,86,142
-Nebraska,Lincoln,3 replications,NE88595,33,1970,66.8,95,143
-Nebraska,Lincoln,3 replications,NE88427,34,2029,70.7,97,142
-Nebraska,Lincoln,3 replications,XH900,35,2125,69.7,98,140
-Nebraska,Lincoln,3 replications,XH1231,36,1946,71,95,140
-Nebraska,Lincoln,3 replications,XH1322,37,2387,71.5,100,138
-Nebraska,Lincoln,3 replications,XH1514,38,2020,68.4,95,142
-Nebraska,Lincoln,3 replications,WI88-083,39,2374,68.6,98,143
-Nebraska,Lincoln,3 replications,WI88-024,40,1663,73.5,93,139
-Nebraska,Lincoln,3 replications,T19-3,41,2363,69.5,102,141
-Nebraska,Lincoln,3 replications,T67,42,2174,74.8,102,139
-Nebraska,Lincoln,3 replications,T21-3,43,1145,66,98,141
-Nebraska,Lincoln,3 replications,TH901,44,2345,70.2,99,140
-Nebraska,Lincoln,3 replications,TH902,45,2009,68.4,99,139
+"state","city","reps","line","entry","yield (kg/ha)","volume weight (kg/hl)","plant height (cm)","days to heading from 1/1"
+"NEBRASKA","LINCOLN","3","CI1442",1,910,72.2,95,147
+"NEBRASKA","LINCOLN","3","CI13996",2,650,67.1,108,140
+"NEBRASKA","LINCOLN","3","PI495594",3,2999,68.4,93,137
+"NEBRASKA","LINCOLN","3","OK87W663",4,2262,71.6,90,138
+"NEBRASKA","LINCOLN","3","OK87542",5,2053,71.6,94,138
+"NEBRASKA","LINCOLN","3","OK87630",6,2744,71.2,99,138
+"NEBRASKA","LINCOLN","3","OK88767",7,2742,72.9,97,137
+"NEBRASKA","LINCOLN","3","OK88W833",8,2517,69.7,90,138
+"NEBRASKA","LINCOLN","3","TX88V4636",9,1494,64.5,88,141
+"NEBRASKA","LINCOLN","3","TX84V1418HF",10,2112,72.2,98,140
+"NEBRASKA","LINCOLN","3","TX88V5440",11,2123,69.4,89,138
+"NEBRASKA","LINCOLN","3","TX88V4635",12,1293,63.2,90,140
+"NEBRASKA","LINCOLN","3","TX87V1613",13,2262,71,102,137
+"NEBRASKA","LINCOLN","3","TX88V4524",14,2981,73.5,91,138
+"NEBRASKA","LINCOLN","3","TX89V4138",15,1818,72.6,95,138
+"NEBRASKA","LINCOLN","3","TX88V5433",16,2542,71.5,89,139
+"NEBRASKA","LINCOLN","3","TX86D1310",17,1997,70.7,90,139
+"NEBRASKA","LINCOLN","3","TX86D1332",18,1979,70.8,90,139
+"NEBRASKA","LINCOLN","3","TX88D3424",19,1614,65,81,137
+"NEBRASKA","LINCOLN","3","C0850034",20,1587,68.6,91,139
+"NEBRASKA","LINCOLN","3","C0850061",21,2107,68.5,98,139
+"NEBRASKA","LINCOLN","3","C0860086",22,1163,63.7,89,145
+"NEBRASKA","LINCOLN","3","C0860094",23,1551,68.4,90,145
+"NEBRASKA","LINCOLN","3","KSSB-369-7",24,2726,71.7,89,138
+"NEBRASKA","LINCOLN","3","KSSB-192-3",25,3549,69.7,90,138
+"NEBRASKA","LINCOLN","3","HBC197F",26,2053,65.8,90,141
+"NEBRASKA","LINCOLN","3","KS87H6",27,1867,69.9,93,143
+"NEBRASKA","LINCOLN","3","KS88H12-1",28,1926,68.8,94,142
+"NEBRASKA","LINCOLN","3","KS88H12-2",29,2089,69.9,103,144
+"NEBRASKA","LINCOLN","3","NE87615",30,1993,65.8,90,143
+"NEBRASKA","LINCOLN","3","NE87409",31,1858,71,100,143
+"NEBRASKA","LINCOLN","3","NE87451",32,2396,69.3,86,142
+"NEBRASKA","LINCOLN","3","NE88595",33,1970,66.8,95,143
+"NEBRASKA","LINCOLN","3","NE88427",34,2029,70.7,97,142
+"NEBRASKA","LINCOLN","3","XH900",35,2125,69.7,98,140
+"NEBRASKA","LINCOLN","3","XH1231",36,1946,71,95,140
+"NEBRASKA","LINCOLN","3","XH1322",37,2387,71.5,100,138
+"NEBRASKA","LINCOLN","3","XH1514",38,2020,68.4,95,142
+"NEBRASKA","LINCOLN","3","WI88-083",39,2374,68.6,98,143
+"NEBRASKA","LINCOLN","3","WI88-024",40,1663,73.5,93,139
+"NEBRASKA","LINCOLN","3","T19-3",41,2363,69.5,102,141
+"NEBRASKA","LINCOLN","3","T67",42,2174,74.8,102,139
+"NEBRASKA","LINCOLN","3","T21-3",43,1145,66,98,141
+"NEBRASKA","LINCOLN","3","TH901",44,2345,70.2,99,140
+"NEBRASKA","LINCOLN","3","TH902",45,2009,68.4,99,139

@@ -1,46 +1,46 @@
-state,city,reps,line,entry,yield (kg/ha),volume weight (kg/hl),plant height (cm),days to heading from 1/1,winter survival (%)
-Texas,Bushland (Dryl.),3 replications,CI1442,1,1383,76.6,58,130,87
-Texas,Bushland (Dryl.),3 replications,CI13996,2,2636,76,60,117,90
-Texas,Bushland (Dryl.),3 replications,PI495594,3,2981,74.3,56,111,88
-Texas,Bushland (Dryl.),3 replications,OK87W663,4,2399,75.7,53,113,80
-Texas,Bushland (Dryl.),3 replications,OK87542,5,1912,74.6,47,115,87
-Texas,Bushland (Dryl.),3 replications,OK87630,6,2477,74.9,54,114,82
-Texas,Bushland (Dryl.),3 replications,OK88767,7,2112,77,51,115,85
-Texas,Bushland (Dryl.),3 replications,OK88W833,8,2470,76.2,50,114,85
-Texas,Bushland (Dryl.),3 replications,TX88V4636,9,2331,74,47,116,77
-Texas,Bushland (Dryl.),3 replications,TX84V1418HF,10,2163,76.6,52,118,85
-Texas,Bushland (Dryl.),3 replications,TX88V5440,11,2464,72.5,52,113,88
-Texas,Bushland (Dryl.),3 replications,TX88V4635,12,2623,73.5,47,116,82
-Texas,Bushland (Dryl.),3 replications,TX87V1613,13,1834,76.1,53,115,42
-Texas,Bushland (Dryl.),3 replications,TX88V4524,14,2780,76.4,51,111,88
-Texas,Bushland (Dryl.),3 replications,TX89V4138,15,3015,77.3,52,110,83
-Texas,Bushland (Dryl.),3 replications,TX88V5433,16,2318,72.9,49,115,85
-Texas,Bushland (Dryl.),3 replications,TX86D1310,17,2634,76.6,54,115,73
-Texas,Bushland (Dryl.),3 replications,TX86D1332,18,2414,76.1,53,116,75
-Texas,Bushland (Dryl.),3 replications,TX88D3424,19,2121,70.7,46,110,82
-Texas,Bushland (Dryl.),3 replications,C0850034,20,2284,77.1,50,117,87
-Texas,Bushland (Dryl.),3 replications,C0850061,21,2780,71.2,50,117,80
-Texas,Bushland (Dryl.),3 replications,C0860086,22,2923,78,48,121,88
-Texas,Bushland (Dryl.),3 replications,C0860094,23,2641,73.3,49,123,85
-Texas,Bushland (Dryl.),3 replications,KSSB-369-7,24,2795,76.1,49,111,77
-Texas,Bushland (Dryl.),3 replications,KSSB-192-3,25,2506,74.6,53,114,77
-Texas,Bushland (Dryl.),3 replications,HBC197F,26,2466,74.4,48,116,83
-Texas,Bushland (Dryl.),3 replications,KS87H6,27,2437,75.2,53,116,87
-Texas,Bushland (Dryl.),3 replications,KS88H12-1,28,2047,73.8,47,121,87
-Texas,Bushland (Dryl.),3 replications,KS88H12-2,29,2551,73.1,51,121,87
-Texas,Bushland (Dryl.),3 replications,NE87615,30,2688,73.1,47,117,90
-Texas,Bushland (Dryl.),3 replications,NE87409,31,2742,75.6,48,120,88
-Texas,Bushland (Dryl.),3 replications,NE87451,32,2558,72.5,46,117,88
-Texas,Bushland (Dryl.),3 replications,NE88595,33,2625,72.5,50,118,87
-Texas,Bushland (Dryl.),3 replications,NE88427,34,2898,74.9,48,118,83
-Texas,Bushland (Dryl.),3 replications,XH900,35,2694,74,58,117,80
-Texas,Bushland (Dryl.),3 replications,XH1231,36,2423,74.4,52,118,85
-Texas,Bushland (Dryl.),3 replications,XH1322,37,2506,75.6,58,114,83
-Texas,Bushland (Dryl.),3 replications,XH1514,38,2670,75.9,55,119,85
-Texas,Bushland (Dryl.),3 replications,WI88-083,39,2818,73.5,51,114,87
-Texas,Bushland (Dryl.),3 replications,WI88-024,40,2549,77.4,52,117,83
-Texas,Bushland (Dryl.),3 replications,T19-3,41,3096,72.2,58,113,87
-Texas,Bushland (Dryl.),3 replications,T67,42,2170,74.9,48,120,87
-Texas,Bushland (Dryl.),3 replications,T21-3,43,2759,69.9,55,116,85
-Texas,Bushland (Dryl.),3 replications,TH901,44,2399,73.4,52,113,87
-Texas,Bushland (Dryl.),3 replications,TH902,45,1921,73.9,52,114,90
+"state","city","reps","line","entry","yield (kg/ha)","volume weight (kg/hl)","plant height (cm)","days to heading from 1/1","winter survival (%)"
+"TEXAS","BUSHLAND (DRYL.)","3","CI1442",1,1383,76.6,58,130,87
+"TEXAS","BUSHLAND (DRYL.)","3","CI13996",2,2636,76,60,117,90
+"TEXAS","BUSHLAND (DRYL.)","3","PI495594",3,2981,74.3,56,111,88
+"TEXAS","BUSHLAND (DRYL.)","3","OK87W663",4,2399,75.7,53,113,80
+"TEXAS","BUSHLAND (DRYL.)","3","OK87542",5,1912,74.6,47,115,87
+"TEXAS","BUSHLAND (DRYL.)","3","OK87630",6,2477,74.9,54,114,82
+"TEXAS","BUSHLAND (DRYL.)","3","OK88767",7,2112,77,51,115,85
+"TEXAS","BUSHLAND (DRYL.)","3","OK88W833",8,2470,76.2,50,114,85
+"TEXAS","BUSHLAND (DRYL.)","3","TX88V4636",9,2331,74,47,116,77
+"TEXAS","BUSHLAND (DRYL.)","3","TX84V1418HF",10,2163,76.6,52,118,85
+"TEXAS","BUSHLAND (DRYL.)","3","TX88V5440",11,2464,72.5,52,113,88
+"TEXAS","BUSHLAND (DRYL.)","3","TX88V4635",12,2623,73.5,47,116,82
+"TEXAS","BUSHLAND (DRYL.)","3","TX87V1613",13,1834,76.1,53,115,42
+"TEXAS","BUSHLAND (DRYL.)","3","TX88V4524",14,2780,76.4,51,111,88
+"TEXAS","BUSHLAND (DRYL.)","3","TX89V4138",15,3015,77.3,52,110,83
+"TEXAS","BUSHLAND (DRYL.)","3","TX88V5433",16,2318,72.9,49,115,85
+"TEXAS","BUSHLAND (DRYL.)","3","TX86D1310",17,2634,76.6,54,115,73
+"TEXAS","BUSHLAND (DRYL.)","3","TX86D1332",18,2414,76.1,53,116,75
+"TEXAS","BUSHLAND (DRYL.)","3","TX88D3424",19,2121,70.7,46,110,82
+"TEXAS","BUSHLAND (DRYL.)","3","C0850034",20,2284,77.1,50,117,87
+"TEXAS","BUSHLAND (DRYL.)","3","C0850061",21,2780,71.2,50,117,80
+"TEXAS","BUSHLAND (DRYL.)","3","C0860086",22,2923,78,48,121,88
+"TEXAS","BUSHLAND (DRYL.)","3","C0860094",23,2641,73.3,49,123,85
+"TEXAS","BUSHLAND (DRYL.)","3","KSSB-369-7",24,2795,76.1,49,111,77
+"TEXAS","BUSHLAND (DRYL.)","3","KSSB-192-3",25,2506,74.6,53,114,77
+"TEXAS","BUSHLAND (DRYL.)","3","HBC197F",26,2466,74.4,48,116,83
+"TEXAS","BUSHLAND (DRYL.)","3","KS87H6",27,2437,75.2,53,116,87
+"TEXAS","BUSHLAND (DRYL.)","3","KS88H12-1",28,2047,73.8,47,121,87
+"TEXAS","BUSHLAND (DRYL.)","3","KS88H12-2",29,2551,73.1,51,121,87
+"TEXAS","BUSHLAND (DRYL.)","3","NE87615",30,2688,73.1,47,117,90
+"TEXAS","BUSHLAND (DRYL.)","3","NE87409",31,2742,75.6,48,120,88
+"TEXAS","BUSHLAND (DRYL.)","3","NE87451",32,2558,72.5,46,117,88
+"TEXAS","BUSHLAND (DRYL.)","3","NE88595",33,2625,72.5,50,118,87
+"TEXAS","BUSHLAND (DRYL.)","3","NE88427",34,2898,74.9,48,118,83
+"TEXAS","BUSHLAND (DRYL.)","3","XH900",35,2694,74,58,117,80
+"TEXAS","BUSHLAND (DRYL.)","3","XH1231",36,2423,74.4,52,118,85
+"TEXAS","BUSHLAND (DRYL.)","3","XH1322",37,2506,75.6,58,114,83
+"TEXAS","BUSHLAND (DRYL.)","3","XH1514",38,2670,75.9,55,119,85
+"TEXAS","BUSHLAND (DRYL.)","3","WI88-083",39,2818,73.5,51,114,87
+"TEXAS","BUSHLAND (DRYL.)","3","WI88-024",40,2549,77.4,52,117,83
+"TEXAS","BUSHLAND (DRYL.)","3","T19-3",41,3096,72.2,58,113,87
+"TEXAS","BUSHLAND (DRYL.)","3","T67",42,2170,74.9,48,120,87
+"TEXAS","BUSHLAND (DRYL.)","3","T21-3",43,2759,69.9,55,116,85
+"TEXAS","BUSHLAND (DRYL.)","3","TH901",44,2399,73.4,52,113,87
+"TEXAS","BUSHLAND (DRYL.)","3","TH902",45,1921,73.9,52,114,90

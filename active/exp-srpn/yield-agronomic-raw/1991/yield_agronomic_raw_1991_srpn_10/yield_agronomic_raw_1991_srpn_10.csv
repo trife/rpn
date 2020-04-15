@@ -1,46 +1,46 @@
-state,city,reps,line,entry,yield (kg/ha),volume weight (kg/hl),plant height (cm),days to heading from 1/1
-Oklahoma,Lahoma,3 replications,CI1442,1,1221,61.4,88,126
-Oklahoma,Lahoma,3 replications,CI13996,2,2188,69,88,112
-Oklahoma,Lahoma,3 replications,PI495594,3,2957,67.9,75,106
-Oklahoma,Lahoma,3 replications,OK87W663,4,2375,68.5,68,107
-Oklahoma,Lahoma,3 replications,OK87542,5,2349,65.5,58,108
-Oklahoma,Lahoma,3 replications,OK87630,6,2500,67.3,70,107
-Oklahoma,Lahoma,3 replications,OK88767,7,2424,68.9,75,108
-Oklahoma,Lahoma,3 replications,OK88W833,8,2477,68,70,107
-Oklahoma,Lahoma,3 replications,TX88V4636,9,2798,63.5,65,108
-Oklahoma,Lahoma,3 replications,TX84V1418HF,10,1948,65.9,73,108
-Oklahoma,Lahoma,3 replications,TX88V5440,11,2597,66.8,68,106
-Oklahoma,Lahoma,3 replications,TX88V4635,12,2749,63.9,78,109
-Oklahoma,Lahoma,3 replications,TX87V1613,13,2734,68.8,73,108
-Oklahoma,Lahoma,3 replications,TX88V4524,14,2412,67.5,68,110
-Oklahoma,Lahoma,3 replications,TX89V4138,15,3397,72,80,107
-Oklahoma,Lahoma,3 replications,TX88V5433,16,2312,67.5,73,108
-Oklahoma,Lahoma,3 replications,TX86D1310,17,2113,67.7,78,113
-Oklahoma,Lahoma,3 replications,TX86D1332,18,1974,67,70,112
-Oklahoma,Lahoma,3 replications,TX88D3424,19,1851,63.6,60,107
-Oklahoma,Lahoma,3 replications,C0850034,20,2473,67.6,70,108
-Oklahoma,Lahoma,3 replications,C0850061,21,2208,66.2,70,108
-Oklahoma,Lahoma,3 replications,C0860086,22,1705,61.7,75,117
-Oklahoma,Lahoma,3 replications,C0860094,23,1557,59.2,73,123
-Oklahoma,Lahoma,3 replications,KSSB-369-7,24,3434,71.2,68,105
-Oklahoma,Lahoma,3 replications,KSSB-192-3,25,2564,64.4,70,106
-Oklahoma,Lahoma,3 replications,HBC197F,26,2600,62.2,68,112
-Oklahoma,Lahoma,3 replications,KS87H6,27,2502,64.1,70,116
-Oklahoma,Lahoma,3 replications,KS88H12-1,28,2252,59.3,73,117
-Oklahoma,Lahoma,3 replications,KS88H12-2,29,2070,60.2,70,117
-Oklahoma,Lahoma,3 replications,NE87615,30,2463,64.5,68,116
-Oklahoma,Lahoma,3 replications,NE87409,31,1819,62.7,78,117
-Oklahoma,Lahoma,3 replications,NE87451,32,2099,61.8,63,115
-Oklahoma,Lahoma,3 replications,NE88595,33,2187,65.1,75,116
-Oklahoma,Lahoma,3 replications,NE88427,34,1908,65,70,117
-Oklahoma,Lahoma,3 replications,XH900,35,2737,65.4,75,108
-Oklahoma,Lahoma,3 replications,XH1231,36,2574,63.2,70,113
-Oklahoma,Lahoma,3 replications,XH1322,37,2789,67.9,78,108
-Oklahoma,Lahoma,3 replications,XH1514,38,2251,60.6,73,117
-Oklahoma,Lahoma,3 replications,WI88-083,39,2514,65.3,78,114
-Oklahoma,Lahoma,3 replications,WI88-024,40,2248,66.2,80,115
-Oklahoma,Lahoma,3 replications,T19-3,41,2288,63.7,73,112
-Oklahoma,Lahoma,3 replications,T67,42,2566,68.8,70,111
-Oklahoma,Lahoma,3 replications,T21-3,43,2465,61.7,80,113
-Oklahoma,Lahoma,3 replications,TH901,44,2610,64.6,78,107
-Oklahoma,Lahoma,3 replications,TH902,45,2797,66.7,83,108
+"state","city","reps","line","entry","yield (kg/ha)","volume weight (kg/hl)","plant height (cm)","days to heading from 1/1"
+"OKLAHOMA","LAHOMA","3","CI1442",1,1221,61.4,88,126
+"OKLAHOMA","LAHOMA","3","CI13996",2,2188,69,88,112
+"OKLAHOMA","LAHOMA","3","PI495594",3,2957,67.9,75,106
+"OKLAHOMA","LAHOMA","3","OK87W663",4,2375,68.5,68,107
+"OKLAHOMA","LAHOMA","3","OK87542",5,2349,65.5,58,108
+"OKLAHOMA","LAHOMA","3","OK87630",6,2500,67.3,70,107
+"OKLAHOMA","LAHOMA","3","OK88767",7,2424,68.9,75,108
+"OKLAHOMA","LAHOMA","3","OK88W833",8,2477,68,70,107
+"OKLAHOMA","LAHOMA","3","TX88V4636",9,2798,63.5,65,108
+"OKLAHOMA","LAHOMA","3","TX84V1418HF",10,1948,65.9,73,108
+"OKLAHOMA","LAHOMA","3","TX88V5440",11,2597,66.8,68,106
+"OKLAHOMA","LAHOMA","3","TX88V4635",12,2749,63.9,78,109
+"OKLAHOMA","LAHOMA","3","TX87V1613",13,2734,68.8,73,108
+"OKLAHOMA","LAHOMA","3","TX88V4524",14,2412,67.5,68,110
+"OKLAHOMA","LAHOMA","3","TX89V4138",15,3397,72,80,107
+"OKLAHOMA","LAHOMA","3","TX88V5433",16,2312,67.5,73,108
+"OKLAHOMA","LAHOMA","3","TX86D1310",17,2113,67.7,78,113
+"OKLAHOMA","LAHOMA","3","TX86D1332",18,1974,67,70,112
+"OKLAHOMA","LAHOMA","3","TX88D3424",19,1851,63.6,60,107
+"OKLAHOMA","LAHOMA","3","C0850034",20,2473,67.6,70,108
+"OKLAHOMA","LAHOMA","3","C0850061",21,2208,66.2,70,108
+"OKLAHOMA","LAHOMA","3","C0860086",22,1705,61.7,75,117
+"OKLAHOMA","LAHOMA","3","C0860094",23,1557,59.2,73,123
+"OKLAHOMA","LAHOMA","3","KSSB-369-7",24,3434,71.2,68,105
+"OKLAHOMA","LAHOMA","3","KSSB-192-3",25,2564,64.4,70,106
+"OKLAHOMA","LAHOMA","3","HBC197F",26,2600,62.2,68,112
+"OKLAHOMA","LAHOMA","3","KS87H6",27,2502,64.1,70,116
+"OKLAHOMA","LAHOMA","3","KS88H12-1",28,2252,59.3,73,117
+"OKLAHOMA","LAHOMA","3","KS88H12-2",29,2070,60.2,70,117
+"OKLAHOMA","LAHOMA","3","NE87615",30,2463,64.5,68,116
+"OKLAHOMA","LAHOMA","3","NE87409",31,1819,62.7,78,117
+"OKLAHOMA","LAHOMA","3","NE87451",32,2099,61.8,63,115
+"OKLAHOMA","LAHOMA","3","NE88595",33,2187,65.1,75,116
+"OKLAHOMA","LAHOMA","3","NE88427",34,1908,65,70,117
+"OKLAHOMA","LAHOMA","3","XH900",35,2737,65.4,75,108
+"OKLAHOMA","LAHOMA","3","XH1231",36,2574,63.2,70,113
+"OKLAHOMA","LAHOMA","3","XH1322",37,2789,67.9,78,108
+"OKLAHOMA","LAHOMA","3","XH1514",38,2251,60.6,73,117
+"OKLAHOMA","LAHOMA","3","WI88-083",39,2514,65.3,78,114
+"OKLAHOMA","LAHOMA","3","WI88-024",40,2248,66.2,80,115
+"OKLAHOMA","LAHOMA","3","T19-3",41,2288,63.7,73,112
+"OKLAHOMA","LAHOMA","3","T67",42,2566,68.8,70,111
+"OKLAHOMA","LAHOMA","3","T21-3",43,2465,61.7,80,113
+"OKLAHOMA","LAHOMA","3","TH901",44,2610,64.6,78,107
+"OKLAHOMA","LAHOMA","3","TH902",45,2797,66.7,83,108
